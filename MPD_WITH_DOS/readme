@@ -1,4 +1,4 @@
-These folder has 5 files where 
+This folder has 5 files where 
 checkdosdataset is the dataset of DOS
 dt_dos is decision tree on DOS where we will be generating a joblib file (dos.joblib) 
 dos plotting is performing MPD and plotting the values obtained where the results are stored under a csv file (dos_results) 
