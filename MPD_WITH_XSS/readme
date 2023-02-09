@@ -1,4 +1,4 @@
-These folder has 5 files where 
+This folder has 5 files where 
 checkxss is the dataset of XSS
 dt_xss is decision tree on XSS where we will be generating a joblib file (xss.joblib) 
 xssplotting is performing MPD and plotting the values obtained where the results are stored under a csv file (xss_results) 
